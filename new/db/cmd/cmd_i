@@ -4130,8 +4130,8 @@ FILE=-
 ARGS=-w
 CMDS=it ; wx 0x90 ; it
 EXPECT=<<EXPECT_ERR
-md5 afd010a5a5456c232dee59d59bd75cf6
-sha1 3bfd02bb4fac6499c89278254f04a081887c38ea
+md5 bf619eac0cdf3f68d496ea9344137e8b
+sha1 5c3eb80066420002bc3dcc7ca4ab6efad7ed4ae5
 EXPECT_ERR=<<RUN
 File has been modified.
 - md5 bf619eac0cdf3f68d496ea9344137e8b
